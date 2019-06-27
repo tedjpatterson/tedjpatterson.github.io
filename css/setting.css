@@ -99,7 +99,6 @@ a.prev.page-numbers,
 
     .nav-list > li > a > span:last-child {
         color: #4d4f54;
-        box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.15);
     }
 
     .current-page-item {
