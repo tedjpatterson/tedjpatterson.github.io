@@ -107,7 +107,6 @@ a.prev.page-numbers,
 
     .nav-list > li > a:hover span:last-child, .nav-list > li.current-menu-item > a > span:last-child {
         color: #2AD3CE;
-        box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.15);
     }
 
     .nav-list > li > a > .nav-list-counter {
