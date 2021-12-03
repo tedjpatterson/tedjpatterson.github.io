@@ -179,6 +179,7 @@ main {
 	padding: 0 1rem;
 	cursor: pointer;
 	display: inline-block;
+	text-align: center;
 }
 
 .menu__item--current .menu__item-text {
